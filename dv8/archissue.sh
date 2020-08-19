@@ -8,7 +8,6 @@ do
 	#./dv8-console arch-root:arch-root -outputFolder ~/DV8/reports/archroot/$prj $file
 
 	echo "## dv8 arch report params file
-
 ## Config global inputFolder and outputFolder path applied to arch report params
 ## Present working directory would be used if this option is empty
 ## Both absolute and relative path are accepted
